@@ -1,0 +1,19 @@
+{
+  "name": "dev-backend",
+  "version": "1.0.0",
+  "description": "devbook",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "js"
+  ],
+  "author": "Harsh Chouhan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
